@@ -30,7 +30,7 @@ const Jumat = () => {
 				<div className="flex justify-center items-center text-sm">13.20-14.40</div>
 			</div>
 		</>
-		</>
+		
 	)
 }
 

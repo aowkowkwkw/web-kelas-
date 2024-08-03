@@ -221,6 +221,7 @@ const StrukturKelas = () => {
 						<BorderStruktur Jabatan="" Nama="Azka" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="Satria" Width="120px" />
 					</div>
+
 				</div>
 
 				
@@ -283,7 +284,7 @@ const StrukturKelas = () => {
 					</div>
 				</div>
 
-				<div className=" absolute bottom-[15%] lg:bottom-[20%] " data-aos="fade-up" data-aos-duration="1000">
+				<div className=" absolute bottom-[15%] lg:bottom-[17.6%] " data-aos="fade-up" data-aos-duration="1000">
 					<div className="flex justify-center items-center flex-col">
 						<img src="LineVertikal3.svg" alt="" className="lg:h-3" />
 						<img src="LineVertikal3.svg" alt="" className="lg:-z-50" />
@@ -295,6 +296,24 @@ const StrukturKelas = () => {
 						</div>
 					</div>
 				</div>
+
+				<div className=" flex gap-[5rem] relative top-[-31.5rem] lg:gap-[-30.7rem]" data-aos="fade-up" data-aos-duration="1200">
+					<div className="flex justify-center items-center flex-col">
+						<img src="LineVertikal3.svg" alt="" className="lg:h-3" />
+						<img src="LineVertikal3.svg" alt="" className="lg:-z-50" />
+						<img src="LineVertikal3.svg" alt="" className="lg:hidden" />
+						<img src="Circle.svg" alt="" className="relative top-[-0.7rem]" />
+						<div className="relative bottom-3">
+							<BorderStruktur Jabatan="Anggota" Nama="Satria" Width="120px" />
+							<BorderStruktur Jabatan="" Nama="Febrian" Width="120px" />
+							<BorderStruktur Jabatan="" Nama="Fajar" Width="120px" />
+							<BorderStruktur Jabatan="" Nama="Azka" Width="120px" />
+							<BorderStruktur Jabatan="" Nama="Rizky" Width="120px" />
+							
+						</div>
+					</div>
+				</div>
+
 
 				{/* Kesehatan */}
 				{/* 	<div

@@ -214,7 +214,7 @@ const StrukturKelas = () => {
 						<BorderStruktur Jabatan="" Nama="Aizat" Width="120px" />
 					</div>
 
-					<div className="flex-col hidden lg:flex">
+					<div className="flex-col">
 						<BorderStruktur Jabatan="Anggota" Nama="Rizky" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="Fajar" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="Febrian" Width="120px" />
@@ -271,7 +271,7 @@ const StrukturKelas = () => {
 					data-aos-duration="1100">
 					<div className="flex-col">
 						<BorderStruktur Jabatan="Anggota" Nama="Rafly" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Andriansyah" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Andriyansyah" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="Sendi" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="Dzaki" Width="120px" />
 					</div>

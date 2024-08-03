@@ -198,12 +198,11 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1100">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Anggota" Nama="Teguh" Width="120px" />
-						
-						<BorderStruktur Jabatan="" Nama="Chandra" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Ikhsan" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Silmi" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Fadzli" Width="120px" />
+						<BorderStruktur Jabatan="Anggota" Nama="Teguh" Width="70px" />			
+						<BorderStruktur Jabatan="" Nama="Chandra" Width="70px" />
+						<BorderStruktur Jabatan="" Nama="Ikhsan" Width="70px" />
+						<BorderStruktur Jabatan="" Nama="Silmi" Width="70px" />
+						<BorderStruktur Jabatan="" Nama="Fadzli" Width="70px" />
 					</div>
 
 					<div className="flex-col">
@@ -215,11 +214,11 @@ const StrukturKelas = () => {
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Anggota" Nama="Rizky" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Fajar" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Febrian" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Azka" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Satria" Width="120px" />
+						<BorderStruktur Jabatan="Anggota" Nama="Rizky" Width="70px" />
+						<BorderStruktur Jabatan="" Nama="Fajar" Width="70px" />
+						<BorderStruktur Jabatan="" Nama="Febrian" Width="70px" />
+						<BorderStruktur Jabatan="" Nama="Azka" Width="70px" />
+						<BorderStruktur Jabatan="" Nama="Satria" Width="70px" />
 					</div>
 
 				</div>

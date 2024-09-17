@@ -15,7 +15,7 @@ function App() {
 
 		// Fungsi untuk memainkan musik
 		function play() {
-			var audio = new Audio('15.m4a');
+			var audio = new Audio('2.m4a');
 			audio.play();
 			audio.loop = true;
 		}

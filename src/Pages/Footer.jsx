@@ -35,12 +35,12 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.instagram.com/bansertu.12/?hl=id" class="hover:underline ">
+									<a href="https://www.instagram.com/u_known_alvaro/?hl=id" class="hover:underline ">
 										Instagram
 									</a>
 								</li>
 								<li>
-									<a href="https://www.tiktok.com/@teknikmesindua" class="hover:underline">
+									<a href="https://www.tiktok.com/@thaisqgmogs" class="hover:underline">
 										Tiktok
 									</a>
 								</li>
